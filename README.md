@@ -24,3 +24,7 @@ Este projeto é um tutorial que ensina a como criar o site do filme **Mario Bros
 - [x] Animações com a biblioteca [AOS](https://michalsnik.github.io/aos/)
 - [x] Uso do CSS Flexbox
 - [x] Efeitos com a propriedade `transform` do css
+
+## 🚀 Créditos
+- https://www.youtube.com/@leovargas
+
